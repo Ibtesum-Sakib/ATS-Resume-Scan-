@@ -120,6 +120,7 @@ I want the response in one single string having the structure:
 {"JD Match":"%","MissingKeywords":[],"Profile Summary":""}
 """
 ```
+----
 ## 📦 Example Output
 
 | **Metric** | **Result** |
@@ -131,10 +132,12 @@ I want the response in one single string having the structure:
 
 ##🧑‍💻 Author
 
-**Mohammad Ibtesum Sakib**
-📍 Bochum, Germany
-📧 ibtesum38@gmail.com
+**Mohammad Ibtesum Sakib**  
+📍 Bochum, Germany  
+📧 ibtesum38@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ibtesum) | [GitHub](https://github.com/Ibtesum-Sakib)
+
+---
 
 
 ## 🏷️ GitHub Topics
