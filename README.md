@@ -130,7 +130,7 @@ I want the response in one single string having the structure:
 | **Profile Summary** | Strong technical profile with good alignment to ML roles. |
 
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
 
 **Mohammad Ibtesum Sakib**  
 📍 Bochum, Germany  
